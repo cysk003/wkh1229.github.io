@@ -9,8 +9,8 @@
    
 > #### 直播源接口 
 >   
-> `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`（极狐）  
-> `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`（github）  
+> `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`（自用1）  
+> `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`（自用2）  
 > `https://telegram-feiyangdigital.v1.mk/bestv.m3u`（肥羊BESTV）  
 > `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`（肥羊GHYX）  
 > `https://telegram-feiyangdigital.v1.mk/sxg.m3u`（肥羊SXG）  
@@ -56,13 +56,13 @@
 > 手机版：[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 
 > <font color=red>TVBox接口</font>   
+> 自用1`https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`  
+> 自用2`https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
 > [云星接口集合](https://www.moil.cc/10.html){:target="_blank"}  
 > 云星家庭 `http://itvbox.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `http://itvbox.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `http://itvbox.cc/tvbox/云星日记/bili.m3u8`  
 > 云星仓库 `https://itvbox.cc/可视TV/云星日记/仓库.json`  
-> 极狐`https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`
-> github`https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`
 > 小苹果`https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
 > 大聪明`https://yydsys.top/duo`  
 > 饭太硬`http://饭太硬.ga/tv`  
