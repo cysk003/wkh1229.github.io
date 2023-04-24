@@ -48,7 +48,7 @@
 > [阿里云盘资源1](https://pan666.cn/){:target="_blank"} [阿里云盘资源2](https://t.me/zaihuayun){:target="_blank"}  
 
 > <font color=red>TVBox合集</font>
-> TVBox空壳软件————————  
+> TVBox空壳软件
 > [TVBox Github站](https://github.com/liu673cn/box){:target="_blank"}  
 > 官方原版：[TVBox开源版](https://tsq.lanzouf.com/b0c4nr91c){:target="_blank"} 密码`123`  [UI美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
 > 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TVMax](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  
