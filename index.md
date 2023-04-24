@@ -12,30 +12,24 @@
 > [Streamtest](https://streamtest.in/logs){:target="_blank"}  
 > [iptv-org](https://iptv-org.github.io/){:target="_blank"}  
 > [biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv){:target="_blank"}  
-> [最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90){:target="_blank"}  
 >   
 > 直播源接口  
-> `https://iptvindex.com/tv.txt`（IPTVindex特供）
-> `https://yydsys.top/duo/txt/v.txt`
-> `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`（月光寶盒PRO直播源）  
-> `https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt`
-> `https://tvsee.github.io/diyp/tv.txt`  
-> `https://iptv-org.github.io/iptv/index.nsfw.m3u`  
-> `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`  
-> `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`  
-> 
+> `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`（极狐）
+> `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`（github）
+> `https://telegram-feiyangdigital.v1.mk/bestv.m3u`（肥羊BESTV源）  
+> `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`（飞扬GHYX）  
+> `https://telegram-feiyangdigital.v1.mk/sxg.m3u`（肥羊SXG）  
+
 > [肥羊影音直播源](https://youshandefeiyang.github.io/)  
    
 > EPG列表
-> `http://epg.112114.xyz/` 
-> `http://diyp.112114.xyz/` 
-> `http://epg.112114.eu.org/` （Diyp & 百川）
-> `https://epg.112114.xyz/epginfo` （超级直播）
-> `https://epg.112114.xyz/pp.xml`
-> `https://epg.112114.xyz/pp.xml.gz` （Xml格式）
-> `https://epg.112114.xyz/bingimg` （Bing每日图片）
-
-### [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`
+> `http://epg.112114.xyz/`                                                            
+> `http://diyp.112114.xyz/`                                                             
+> `http://epg.112114.eu.org/` （Diyp & 百川）                                                            
+> `https://epg.112114.xyz/epginfo` （超级直播）                                                            
+> `https://epg.112114.xyz/pp.xml`                                                            
+> `https://epg.112114.xyz/pp.xml.gz` （Xml格式）                                                            
+> `https://epg.112114.xyz/bingimg` （Bing每日图片）                                                            
 
 ## **影视点播**
 
