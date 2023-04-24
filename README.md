@@ -1,2 +1,0 @@
-# IPTVindex.com
-Enjoy IPTV !
