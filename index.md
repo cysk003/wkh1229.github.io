@@ -1,15 +1,12 @@
 ## **电视直播**
 
-### 自带直播源apk（装了就能看，有大佬维护直播源）
+### 自带直播源
 
-| [太阳直播](https://teyonds.lanzouw.com/id7rs0ce6dab){:target="_blank"} | [云海电视](http://www.yunhitv.com/){:target="_blank"} | [秒看电视](http://miaokantv.cn/){:target="_blank"} |
-| :---: | :---: | :---: |
-| [**小马直播**](https://teyonds.lanzouw.com/iAYFB0jo1xeh){:target="_blank"} | [**蚂蚁直播**](https://tansuo.lanzoub.com/iRg6I0ky227g){:target="_blank"} | [**电视家**](https://teyonds.lanzouw.com/i4rjP0lo6o9a){:target="_blank"} |
-| [**野火直播**](https://teyonds.lanzouw.com/idcmK0d2njyh){:target="_blank"} | [**91看电视**](https://teyonds.lanzouw.com/iLE0J0lgpsab){:target="_blank"} | [**超级iTV**](https://teyonds.lanzouw.com/imt0N09b6akh){:target="_blank"} |
-  
+>`https://www.123pan.com/s/iPtA-wuvKd.html`(123网盘)  
+>`https://wwkh.lanzoul.com/b0128opbc`密码:f5mj(蓝奏云) 
+
 > #### Find IPTV Source（寻找直播源）
->   
-> 勤劳的小蜜蜂：搜索特定台直播源地址  
+>     
 > [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/){:target="_blank"}  
 > [Yam Code](https://www.yamcode.com/trending){:target="_blank"}  
 > [Streamtest](https://streamtest.in/logs){:target="_blank"}  
@@ -17,9 +14,9 @@
 > [biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv){:target="_blank"}  
 > [最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90){:target="_blank"}  
 >   
-> 偷懒的方法：找大佬的直播源接口  
-> `https://iptvindex.com/tv.txt`（IPTVindex特供） ![image](https://iptvindex.com/img/hot1.png)  
-> `https://yydsys.top/duo/txt/v.txt` ![image](https://iptvindex.com/img/hot1.png)  
+> 直播源接口  
+> `https://iptvindex.com/tv.txt`（IPTVindex特供）
+> `https://yydsys.top/duo/txt/v.txt`
 > `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`（月光寶盒PRO直播源）  
 > `https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt`
 > `https://tvsee.github.io/diyp/tv.txt`  
@@ -28,24 +25,15 @@
 > `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`  
 > 
 > [肥羊影音直播源](https://youshandefeiyang.github.io/)  
-> 
-> [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表  
-> `https://iptv-org.github.io/iptv/index.m3u` ![image](https://iptvindex.com/img/hot1.png)  
-> `https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)  
-> `https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)  
-> `https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)  
-> `https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)  
-> `https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)  
-> `https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)  
-> `https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)  
-> `https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)  
-> `https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)  
-> `https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)   
-> `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)   
-> `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)   
    
-> #### 3.Input EPG（导入节目表信息）   
-> `http://epg.51zmt.top:8000/api/diyp/` 来自 [老张的EPG](http://epg.51zmt.top:8000/){:target="_blank"}  
+> EPG列表
+> `http://epg.112114.xyz/` 
+> `http://diyp.112114.xyz/` 
+> `http://epg.112114.eu.org/` （Diyp & 百川）
+> `https://epg.112114.xyz/epginfo` （超级直播）
+> `https://epg.112114.xyz/pp.xml`
+> `https://epg.112114.xyz/pp.xml.gz` （Xml格式）
+> `https://epg.112114.xyz/bingimg` （Bing每日图片）
 
 ### [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`
 
