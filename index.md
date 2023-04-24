@@ -288,8 +288,3 @@
 * [恒星播放器](https://www.stellarplayer.com){:target="_blank"} 视觉享受 随心而动
 
 * PotPlayer视频播放器[官网](https://potplayer.daum.net/){:target="_blank"} [另一个网址](https://potplayer.tv/?lang=zh_CN){:target="_blank"}★
-
-***
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p><font size=2><span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span> </span></font></p>
