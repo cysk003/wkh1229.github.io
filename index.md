@@ -2,10 +2,10 @@
 
 ### 自带直播源
 
-> 123网盘`https://www.123pan.com/s/iPtA-wuvKd.html`  
-> 蓝奏云`https://wwkh.lanzoul.com/b0128opbc`密码:f5mj  
-> 秒看电视`http://www.miaokantv.cn/`  
-> 神鸟电视`http://www.shenniaotv.com/`  
+> `https://www.123pan.com/s/iPtA-wuvKd.html`（123网盘）    
+> `https://wwkh.lanzoul.com/b0128opbc`密码:f5mj（蓝奏云）    
+> `http://www.miaokantv.cn/`（秒看电视）  
+> `http://www.shenniaotv.com/`（神鸟电视）  
 
 > #### 寻找直播源
 >   
