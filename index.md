@@ -52,7 +52,7 @@
 > [TVBox Github站](https://github.com/liu673cn/box){:target="_blank"}  
 > 官方原版：[TVBox开源版](https://tsq.lanzouf.com/b0c4nr91c){:target="_blank"} 密码`123`  [UI美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
 > 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TVMax](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  
-> 内置版：[小苹果影视](www.xpgtv.com){:target="_blank"}  
+> 内置版：[小苹果影视](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 手机版：[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 
 > <font color=red>TVBox接口</font>   
@@ -75,6 +75,6 @@
 
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
-> [黑鸟播放器](https://guihet.com/blackbird-player.html) 
+> [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"}  
 
-> [RedStar视频播放器](https://tvdat.neocities.org/) 
+> [RedStar视频播放器](https://tvdat.neocities.org/){:target="_blank"}  
