@@ -2,24 +2,27 @@
 
 ### 自带直播源
 
->`https://www.123pan.com/s/iPtA-wuvKd.html`(123网盘)  
->`https://wwkh.lanzoul.com/b0128opbc`密码:f5mj(蓝奏云) 
+> [123网盘](https://www.123pan.com/s/iPtA-wuvKd.html)
+> [蓝奏云](https://wwkh.lanzoul.com/b0128opbc)密码:f5mj
+> [秒看电视](http://www.miaokantv.cn/)
+> [神鸟电视](http://www.shenniaotv.com/)
 
-> #### Find IPTV Source（寻找直播源）
->     
+> #### 寻找直播源
+>   
 > [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/){:target="_blank"}  
 > [Yam Code](https://www.yamcode.com/trending){:target="_blank"}  
 > [Streamtest](https://streamtest.in/logs){:target="_blank"}  
 > [iptv-org](https://iptv-org.github.io/){:target="_blank"}  
 > [biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv){:target="_blank"}  
->     
+>   
 > #### 直播源接口 
 >   
 > `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`（极狐）  
 > `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`（github）  
-> `https://telegram-feiyangdigital.v1.mk/bestv.m3u`（肥羊BESTV源）  
-> `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`（飞扬GHYX）  
+> `https://telegram-feiyangdigital.v1.mk/bestv.m3u`（肥羊BESTV）  
+> `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`（肥羊GHYX）  
 > `https://telegram-feiyangdigital.v1.mk/sxg.m3u`（肥羊SXG）  
+> `https://telegram-feiyangdigital.v1.mk`（肥羊精选）  
 
 > [肥羊影音直播源](https://youshandefeiyang.github.io/)  
    
