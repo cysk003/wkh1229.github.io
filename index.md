@@ -58,7 +58,6 @@
 > <font color=red>TVBox接口</font>   
 > 自用1`https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`  
 > 自用2`https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
-> 云星日记`https://moil.cc/`  
 > 云星家庭 `http://itvbox.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `http://itvbox.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `http://itvbox.cc/tvbox/云星日记/bili.m3u8`  
