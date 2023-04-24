@@ -13,9 +13,10 @@
 > [iptv-org](https://iptv-org.github.io/){:target="_blank"}  
 > [biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv){:target="_blank"}  
 >   
-> #### 直播源接口  
-> `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`（极狐）
-> `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`（github）
+> #### 直播源接口 
+>   
+> `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`（极狐）  
+> `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`（github）  
 > `https://telegram-feiyangdigital.v1.mk/bestv.m3u`（肥羊BESTV源）  
 > `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`（飞扬GHYX）  
 > `https://telegram-feiyangdigital.v1.mk/sxg.m3u`（肥羊SXG）  
@@ -23,13 +24,14 @@
 > [肥羊影音直播源](https://youshandefeiyang.github.io/)  
    
 > #### EPG列表
-> `http://epg.112114.xyz/`                                                            
-> `http://diyp.112114.xyz/`                                                             
-> `http://epg.112114.eu.org/` （Diyp & 百川）                                                            
-> `https://epg.112114.xyz/epginfo` （超级直播）                                                            
-> `https://epg.112114.xyz/pp.xml`                                                            
-> `https://epg.112114.xyz/pp.xml.gz` （Xml格式）                                                            
-> `https://epg.112114.xyz/bingimg` （Bing每日图片）                                                            
+>   
+> `http://epg.112114.xyz/`  
+> `http://diyp.112114.xyz/`  
+> `http://epg.112114.eu.org/` （Diyp & 百川）  
+> `https://epg.112114.xyz/epginfo` （超级直播）  
+> `https://epg.112114.xyz/pp.xml`  
+> `https://epg.112114.xyz/pp.xml.gz` （Xml格式）  
+> `https://epg.112114.xyz/bingimg` （Bing每日图片）  
 
 ## **影视点播**
 
