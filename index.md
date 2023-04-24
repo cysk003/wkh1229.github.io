@@ -2,10 +2,10 @@
 
 ### 自带直播源
 
-> [123网盘](https://www.123pan.com/s/iPtA-wuvKd.html)
-> [蓝奏云](https://wwkh.lanzoul.com/b0128opbc)密码:f5mj
-> [秒看电视](http://www.miaokantv.cn/)
-> [神鸟电视](http://www.shenniaotv.com/)
+> 123网盘`https://www.123pan.com/s/iPtA-wuvKd.html`  
+> 蓝奏云`https://wwkh.lanzoul.com/b0128opbc`密码:f5mj  
+> 秒看电视`http://www.miaokantv.cn/`  
+> 神鸟电视`http://www.shenniaotv.com/`  
 
 > #### 寻找直播源
 >   
@@ -23,6 +23,8 @@
 > `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`（肥羊GHYX）  
 > `https://telegram-feiyangdigital.v1.mk/sxg.m3u`（肥羊SXG）  
 > `https://telegram-feiyangdigital.v1.mk`（肥羊精选）  
+> `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u`（4K/8K源）  
+> `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u`（爱尚源）  
 
 > [肥羊影音直播源](https://youshandefeiyang.github.io/)  
    
