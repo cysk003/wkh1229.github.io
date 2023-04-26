@@ -75,6 +75,8 @@
 
 > [蜂鸟视频](https://www.youyouniao.cc/){:target="_blank"}  
 
+> 龙门影视[官网](https://www.youyouniao.cc/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid)密码:9527
+
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
 > [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"}  
