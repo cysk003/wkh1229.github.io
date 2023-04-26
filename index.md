@@ -73,6 +73,8 @@
 
 > [极客影院](https://www.jiketv.com/index.php/label/down.html){:target="_blank"}  
 
+> [蜂鸟视频](https://www.youyouniao.cc/){:target="_blank"}  
+
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
 > [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"}  
