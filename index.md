@@ -36,7 +36,7 @@
 
 > <font color=red>大佬应用集合</font>
 > [IPTVindex安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
-> [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}推荐太阳直播  
+> [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播  
 > [盒子地窖](http://www.wmsio.cn){:target="_blank"}  
 > [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}  
 > [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}  
