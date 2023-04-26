@@ -4,7 +4,7 @@
  
 > [秒看电视](http://www.miaokantv.cn/){:target="_blank"} [神鸟电视](http://www.shenniaotv.com/){:target="_blank"}  
 > `https://www.123pan.com/s/iPtA-wuvKd.html`（123网盘）    
-> `https://wwkh.lanzoul.com/b0128opbc`密码:f5mj（蓝奏云）   
+> `https://wwkh.lanzoul.com/b0128opbc`密码`f5mj`（蓝奏云）   
    
 > #### 直播源接口 
 >   
