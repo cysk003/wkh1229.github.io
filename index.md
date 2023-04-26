@@ -51,7 +51,7 @@
 > TVBox空壳软件  
 > [TVBox Github站](https://github.com/liu673cn/box){:target="_blank"}  
 > 官方原版：[TVBox开源版](https://tsq.lanzouf.com/b0c4nr91c){:target="_blank"} 密码`123`  [UI美化版takagen99](https://wws.lanzouv.com/b03j4ulyh){:target="_blank"} 密码`999`  
-> 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TVMax](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  
+> 多仓版：[影视仓](https://wwjn.lanzout.com/b03jpibob){:target="_blank"} 密码`1234`  [可视TV](https://wwc.lanzoub.com/b0es81t8j){:target="_blank"} 密码`54jb`  [如意TV](https://wwf.lanzoub.com/b0esg6fwh){:target="_blank"} 密码`ruyi`   
 > 内置版：[小苹果影视](https://pan.lanzoub.com/b0ahghc4h){:target="_blank"}  
 > 手机版：[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 
