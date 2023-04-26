@@ -18,7 +18,7 @@
 > `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u`（4K/8K源）  
 > `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u`（爱尚源）  
 
-> [肥羊影音直播源](https://youshandefeiyang.github.io/)  
+> [肥羊影音直播源](https://youshandefeiyang.github.io/){:target="_blank"}  
    
 > #### EPG列表
 >   
@@ -35,11 +35,11 @@
 ### 视频：安卓手机/电视/盒子
 
 > <font color=red>大佬应用集合</font>
-> [IPTVindex安卓应用集合](https://tansuo.lanzoub.com/b01592xri)  
-> [太阳网盘](http://teyonds.ysepan.com/) 推荐太阳直播  
-> [盒子地窖](http://www.wmsio.cn)  
-> [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html)  
-> [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj)  
+> [IPTVindex安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}  
+> [太阳网盘](http://teyonds.ysepan.com/) 推荐太阳直播{:target="_blank"}  
+> [盒子地窖](http://www.wmsio.cn){:target="_blank"}  
+> [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}  
+> [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}  
 
 > <font color=red>阿里云盘</font>
 > 支持阿里云盘的TV播放器  
@@ -75,7 +75,7 @@
 
 > [蜂鸟视频](https://www.youyouniao.cc/){:target="_blank"}  
 
-> 龙门影视[官网](https://www.youyouniao.cc/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid)密码:9527  
+> 龙门影视[官网](https://www.youyouniao.cc/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid){:target="_blank"} 密码:`9527`  
 
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
