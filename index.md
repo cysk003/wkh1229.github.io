@@ -24,11 +24,11 @@
 >   
 > `http://epg.112114.xyz/`  
 > `http://diyp.112114.xyz/`  
-> `http://epg.112114.eu.org/` （Diyp & 百川）  
-> `https://epg.112114.xyz/epginfo` （超级直播）  
+> `http://epg.112114.eu.org/`（Diyp & 百川）  
+> `https://epg.112114.xyz/epginfo`（超级直播）  
 > `https://epg.112114.xyz/pp.xml`  
-> `https://epg.112114.xyz/pp.xml.gz` （Xml格式）  
-> `https://epg.112114.xyz/bingimg` （Bing每日图片）  
+> `https://epg.112114.xyz/pp.xml.gz`（Xml格式）  
+> `https://epg.112114.xyz/bingimg`（Bing每日图片）  
 
 ## **影视点播**
 
@@ -56,16 +56,16 @@
 > 手机版：[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej){:target="_blank"}  
 
 > <font color=red>TVBox接口</font>   
-> 自用1`https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`  
-> 自用2`https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
+> 自用1 `https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`  
+> 自用2 `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
 > 云星家庭 `http://itvbox.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `http://itvbox.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `http://itvbox.cc/tvbox/云星日记/bili.m3u8`  
 > 云星仓库 `https://itvbox.cc/可视TV/云星日记/仓库.json`  
-> 小苹果`https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
-> 大聪明`https://yydsys.top/duo`  
-> 饭太硬`http://饭太硬.ga/tv`  
-> 肥猫`http://我不是.肥猫.love:63/接口禁止贩卖`  
+> 小苹果 `https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
+> 大聪明 `https://yydsys.top/duo`  
+> 饭太硬 `http://饭太硬.ga/tv`  
+> 肥猫 `http://我不是.肥猫.love:63/接口禁止贩卖`  
 
 ## **影视音乐**
 
@@ -75,7 +75,7 @@
 
 > [蜂鸟视频](https://www.youyouniao.cc/){:target="_blank"}  
 
-> 龙门影视[官网](https://www.youyouniao.cc/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid){:target="_blank"} 密码:`9527`  
+> 龙门影视 [官网](https://www.youyouniao.cc/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid){:target="_blank"} 密码:`9527`  
 
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
