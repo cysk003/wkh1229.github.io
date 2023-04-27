@@ -17,7 +17,7 @@
 > `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u`（4K/8K源）  
 > `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u`（爱尚源）  
 
-> [肥羊影音直播源](https://youshandefeiyang.github.io/){:target="_blank"}  
+> [肥羊影音直播源](https://github.com/youshandefeiyang/live-Url){:target="_blank"}  
    
 > #### EPG列表
 >   
