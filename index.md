@@ -78,6 +78,10 @@
 
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
+> PotPlayer[官网1](https://potplayer.daum.net/){:target="_blank"} [官网2](http://potplayer.tv/){:target="_blank"}  
+
+> [VLC播放器](https://www.videolan.org/){:target="_blank"}  
+
 > [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"}  
 
 > [RedStar视频播放器](https://tvdat.neocities.org/){:target="_blank"}  
