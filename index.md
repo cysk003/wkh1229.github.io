@@ -8,23 +8,23 @@
    
 > #### 直播源接口 
 >   
-> 自用1`https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`  
-> 自用2`https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`   
-> 肥羊BESTV`https://telegram-feiyangdigital.v1.mk/bestv.m3u`   
-> 肥羊GHYX`https://telegram-feiyangdigital.v1.mk/ghyx.m3u`   
-> 肥羊SXG`https://telegram-feiyangdigital.v1.mk/sxg.m3u`   
-> 肥羊精选`https://telegram-feiyangdigital.v1.mk`   
-> 4K/8K源`https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u`   
-> 爱尚源`https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u`   
+> 自用1 `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`  
+> 自用2 `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`   
+> 肥羊BESTV `https://telegram-feiyangdigital.v1.mk/bestv.m3u`   
+> 肥羊GHYX `https://telegram-feiyangdigital.v1.mk/ghyx.m3u`   
+> 肥羊SXG `https://telegram-feiyangdigital.v1.mk/sxg.m3u`   
+> 肥羊精选 `https://telegram-feiyangdigital.v1.mk`   
+> 4K/8K源 `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u`   
+> 爱尚源 `https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u`   
 
 > [肥羊影音直播源](https://github.com/youshandefeiyang/live-Url){:target="_blank"}  
    
 > #### EPG列表
 >   
-> Diyp & 百川`http://epg.112114.xyz/` `http://diyp.112114.xyz/` `http://epg.112114.eu.org/`  
-> 超级直播`https://epg.112114.xyz/epginfo` `https://epg.112114.xyz/pp.xml`  
-> Xml格式`https://epg.112114.xyz/pp.xml.gz`  
-> Bing每日图片`https://epg.112114.xyz/bingimg`  
+> Diyp & 百川 `http://epg.112114.xyz/` `http://diyp.112114.xyz/` `http://epg.112114.eu.org/`  
+> 超级直播 `https://epg.112114.xyz/epginfo` `https://epg.112114.xyz/pp.xml`  
+> Xml格式 `https://epg.112114.xyz/pp.xml.gz`  
+> Bing每日图片 `https://epg.112114.xyz/bingimg`  
 
 ## **影视点播**
 
