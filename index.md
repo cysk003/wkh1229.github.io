@@ -8,7 +8,7 @@
    
 > #### 直播源接口 
 >   
-> 自用1`https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`
+> 自用1`https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`  
 > 自用2`https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`   
 > 肥羊BESTV`https://telegram-feiyangdigital.v1.mk/bestv.m3u`   
 > 肥羊GHYX`https://telegram-feiyangdigital.v1.mk/ghyx.m3u`   
