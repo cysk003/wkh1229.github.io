@@ -82,3 +82,9 @@
 > [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"}  
 
 > [RedStar视频播放器](https://tvdat.neocities.org/){:target="_blank"}  
+
+## **谷歌地图**
+
+> [谷谷GGGIS地图](http://www.gggis.com/sy/){:target="_blank"}  
+
+> [谷歌地球大陆版](http://wang.giiiis.com/){:target="_blank"}  
