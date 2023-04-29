@@ -91,6 +91,8 @@
 
 > [橘子加速器](https://www.juzifast.com/){:target="_blank"}  
 
+> [极光加速器](https://github.com/getaurora/download){:target="_blank"}  
+
 > [谷谷GGGIS地图](http://www.gggis.com/sy/){:target="_blank"}  
 
 > [谷歌地球大陆版](http://wang.giiiis.com/){:target="_blank"}  
