@@ -87,7 +87,9 @@
 
 > [RedStar视频播放器](https://tvdat.neocities.org/){:target="_blank"}  
 
-## **谷歌地图**
+## **加速器 谷歌地图**
+
+> [橘子加速器](https://www.juzifast.com/){:target="_blank"}  
 
 > [谷谷GGGIS地图](http://www.gggis.com/sy/){:target="_blank"}  
 
