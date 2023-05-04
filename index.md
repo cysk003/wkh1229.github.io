@@ -62,6 +62,14 @@
 > 饭太硬 `http://饭太硬.ga/tv`  
 > 肥猫 `http://我不是.肥猫.love:63/接口禁止贩卖`  
 
+## **查询IP，链接生成**
+
+> [查询IP1](https://site.ip138.com/){:target="_blank"}  
+
+> [查询IP2](https://www.17ce.com/site){:target="_blank"}  
+
+> [链接生成器](https://ljscq.bmcx.com/){:target="_blank"}  
+
 ## **影视音乐**
 
 > [影视工场TV](https://down.ysgc.xyz/){:target="_blank"}  
