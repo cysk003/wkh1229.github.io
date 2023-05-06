@@ -82,7 +82,7 @@
 
 > [电影库](https://www.dianyingku.app/){:target="_blank"}  
 
-> 龙门影视 [官网](https://www.youyouniao.cc/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid){:target="_blank"} 密码:`9527`  
+> 龙门影视 [官网](http://looo.top/){:target="_blank"} [网盘](https://mop.lanzout.com/b0fg0vmid){:target="_blank"} 密码:`9527`  
 
 > 洛雪音乐助手 [官网](https://github.com/lyswhut){:target="_blank"} [桌面版：支持WIN、Mac OS、Linux](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} [安卓版](https://github.com/lyswhut/lx-music-mobile){:target="_blank"}
 
