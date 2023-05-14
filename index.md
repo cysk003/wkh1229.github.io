@@ -9,7 +9,7 @@
 > #### 直播源接口 
 >   
 > 自用1 `https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt`  
-> 自用2 `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`   
+> 自用2 `https://cdn.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt`   
 > 肥羊BESTV `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u`   
 > 肥羊GHYX `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u`   
 > 肥羊SXG `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u`   
@@ -17,6 +17,10 @@
 > 4K/8K源 `https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u`   
 
 > [肥羊影音直播源](https://github.com/youshandefeiyang/live-Url){:target="_blank"}  
+   
+> #### 直播源搜索 
+>   
+> [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/){:target="_blank"}  
    
 > #### EPG列表
 >   
@@ -52,12 +56,11 @@
 
 > <font color=red>TVBox接口</font>   
 > 自用1 `https://jihulab.com/wkh1229/tvshow/-/raw/main/tvbox.json`  
-> 自用2 `https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
+> 自用2 `https://cdn.jsdelivr.net/gh/wkh1229/tvshow@main/tvbox.json`  
 > 云星家庭 `http://itvbox.cc/tvbox/云星日记/1.m3u8`  
 > 云星阿里 `http://itvbox.cc/tvbox/云星日记/ali.m3u8`  
 > 云星哔哩 `http://itvbox.cc/tvbox/云星日记/bili.m3u8`  
 > 云星仓库 `https://itvbox.cc/可视TV/云星日记/仓库.json`  
-> 小苹果 `https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json`  
 > 大聪明 `https://yydsys.top/duo`  
 > 饭太硬 `http://饭太硬.ga/tv`  
 > 肥猫 `http://我不是.肥猫.love:63/接口禁止贩卖`  
